@@ -1,6 +1,6 @@
 === Edit By ID ===
 Contributors: gaelan
-Tags: edit, id, post id, quick, quick edit
+Tags: edit by id, edit post by id, admin bar, admin bar tools, quick edit, developer tools, navigation, wp admin, custom post type
 Requires at least: 4.7
 Tested up to: 6.9
 Stable tag: 1.0
@@ -8,29 +8,42 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Adds an 'Edit by ID' field to the admin bar to let you instantly edit any post.
+Quickly edit posts, pages, and custom post types by ID directly from the WordPress admin bar.
 
 == Description ==
 
-This plugin adds a simple "Edit by ID" field to the WP Admin Bar, giving you the ability to instantly edit any post, page, or other ID'd item on the site just by entering that item's post ID and pressing Enter.
+This lightweight plugin adds an **"Edit by ID" field to the WordPress admin bar**, allowing you to instantly open the edit screen for any post, page, or custom post type. Simply type the ID and press Enter.
 
-This feature is visible only to users with Editor roles and above.
+Perfect for developers, site administrators, and content managers who frequently need **fast access to specific content**, this tool eliminates the need to search through the dashboard or navigate multiple screens.
 
-I hope you find this plugin useful!
+Key Features:
 
-**Please note:** This plugin is meant to be as simplistic as possible. It doesn't show ID's in the backend... many existing plugins do that. Hovering over `Edit` links will also expost ID's. I'm happy to review PR's for suggested improvements, especially around edge cases I may not have anticipated, but I will politely decline to add functionality if it exceeds a certain complexity scope.
+- Edit posts by ID instantly from anywhere in the admin area
+- Adds a simple, non-intrusive field to the WordPress admin bar
+- Works with posts, pages, and custom post types
+- Speeds up your workflow and improves admin productivity
 
-**Friendly note:** This is my first publicly-distributed WordPress plugin! Please bear with me while I learn the ropes.
+Whether you're debugging, managing content, or working with large sites, this plugin provides a **quick and efficient way to open any item by its ID**.
+
+User Role Note:
+
+- Available to users with the Editor role and above.
 
 == Frequently Asked Questions ==
 
 = Does this plugin also show IDs in the backend? =
 
-Nope. (See above)
+No. This plugin is intentionally designed to remain lightweight and focused on a single purpose: quickly accessing content by ID from the admin bar.
+
+If you need to view IDs within the WordPress admin interface, there are other plugins available that provide this functionality. Alternatively, you can often find the ID by hovering over an “Edit” link, where it appears in the URL.
 
 = Can I contribute? =
 
-Sure! Just be mindful of my comments above about the plugin's simplicity. The plugin code is hosted over at [GitHub](https://github.com/gaelanlloyd/wp-edit-by-id).
+Yes, contributions are welcome.
+
+To help maintain the plugin’s simplicity and focused scope, please open an issue to discuss any proposed changes before submitting a pull request.
+
+The source code is available on GitHub: https://github.com/gaelanlloyd/wp-edit-by-id
 
 == Changelog ==
 
