@@ -1,20 +1,22 @@
-=== Edit By ID ===
+=== Quick Edit Post by ID (Admin Bar) ===
 Contributors: gaelan
-Tags: edit by id, edit post by id, admin bar, admin bar tools, quick edit, developer tools, navigation, wp admin, custom post type
+Tags: admin bar, quick edit, edit post by id, developer tools, adminbar
 Requires at least: 4.7
 Tested up to: 6.9
-Stable tag: 1.0
+Stable tag: 1.1
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Quickly edit posts, pages, and custom post types by ID directly from the WordPress admin bar.
+Instantly open the edit screen for any post, page, or custom post type by ID, right from the WordPress admin bar.
 
 == Description ==
 
-This lightweight plugin adds an **"Edit by ID" field to the WordPress admin bar**, allowing you to instantly open the edit screen for any post, page, or custom post type. Simply type the ID and press Enter.
+Quickly edit any post, page, or custom post type by ID without searching or navigating the dashboard.
 
-Perfect for developers, site administrators, and content managers who frequently need **fast access to specific content**, this tool eliminates the need to search through the dashboard or navigate multiple screens.
+Just enter an ID in the admin bar and jump straight to the edit screen.
+
+Perfect for developers, admins, and content managers working with large or complex sites.
 
 Key Features:
 
@@ -28,6 +30,10 @@ Whether you're debugging, managing content, or working with large sites, this pl
 User Role Note:
 
 - Available to users with the Editor role and above.
+
+== Screenshots ==
+
+1. Quickly edit any page or post by ID directly from the admin bar.
 
 == Frequently Asked Questions ==
 
@@ -46,6 +52,10 @@ To help maintain the plugin’s simplicity and focused scope, please open an iss
 The source code is available on GitHub: https://github.com/gaelanlloyd/wp-edit-by-id
 
 == Changelog ==
+
+= 1.1 =
+
+Changed plugin name and tags, updated readme, added animated GIF demo screenshot.
 
 = 1.0 =
 

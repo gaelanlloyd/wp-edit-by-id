@@ -5,9 +5,9 @@
  * @copyright 2026 Gaelan Lloyd
  * @license GPL v2 or later
  *
- * Plugin Name: Edit By ID
- * Description: Adds an 'Edit by ID' field to the admin bar to let you instantly edit any post.
- * Version: 1.0
+ * Plugin Name: Quick Edit Post by ID (Admin Bar)
+ * Description: Instantly open the edit screen for any post, page, or custom post type by ID, right from the WordPress admin bar.
+ * Version: 1.1
  * Author: Gaelan Lloyd
  * Author URI: https://www.gaelanlloyd.com
  *
