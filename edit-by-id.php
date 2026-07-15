@@ -7,7 +7,7 @@
  *
  * Plugin Name: Quick Edit Post by ID (Admin Bar)
  * Description: Instantly open the edit screen for any post, page, or custom post type by ID, right from the WordPress admin bar.
- * Version: 1.1
+ * Version: 1.2
  * Author: Gaelan Lloyd
  * Author URI: https://www.gaelanlloyd.com
  *

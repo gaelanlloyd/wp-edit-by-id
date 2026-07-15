@@ -2,8 +2,8 @@
 Contributors: gaelan
 Tags: admin bar, quick edit, edit post by id, developer tools, adminbar
 Requires at least: 4.7
-Tested up to: 6.9
-Stable tag: 1.1
+Tested up to: 7.0
+Stable tag: 1.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -52,6 +52,9 @@ To help maintain the plugin’s simplicity and focused scope, please open an iss
 The source code is available on GitHub: https://github.com/gaelanlloyd/wp-edit-by-id
 
 == Changelog ==
+
+= 1.2 =
+* Validated support for WordPress 7.0
 
 = 1.1 =
 
